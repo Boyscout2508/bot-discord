@@ -1,4 +1,4 @@
-# Bot-Ticket-V13
+# Bot-Ticket-the dissatisfied
 Un Bot Ticket avec choix de cathégorie complet
 
 #########################################
@@ -33,4 +33,4 @@ ouvrez le token.json puis remplissez ces info
 
 #########################################
 
-Discord d'aide : https://discord.gg/88t9j4DSye
+Discord d'aide : https://discord.gg/fw44xGT9
