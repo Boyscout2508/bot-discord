@@ -22,7 +22,7 @@ ouvrez le config.json puis remplissez ces info
   "logsTicket": "ID des logs Ticket",
   "ticketChannel": "ID du canal du Tickt",
 
-  "footerText": "contributeurs @EXODEcola ✪#7410 et @[+] EXODE PROTECT"
+  "footerText": "Le nom de votre communauter"
 }
 
 ouvrez le token.json puis remplissez ces info
